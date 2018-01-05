@@ -6,4 +6,4 @@ To compile and run my program, use command: 'python main.py [input-file-name.txt
 
 Simplex Method Result is printing into output file, 'simplex.out'
 
-The simplex directory consists of only "main.py"
+The simplex directory consists of "main.py", serval test input txt files, and "simplex.out" that holds the solution to the given LP.
