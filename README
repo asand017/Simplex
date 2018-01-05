@@ -1,0 +1,9 @@
+Aaron Sanders
+
+I implemented the Simplex method in "Python"
+
+To compile and run my program, use command: 'python main.py [input-file-name.txt]'
+
+Simplex Method Result is printing into output file, 'simplex.out'
+
+The simplex directory consists of only "main.py"
