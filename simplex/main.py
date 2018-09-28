@@ -1,3 +1,7 @@
+# Code Sample
+# Author: Aaron Sanders
+# Simplex Method Linear Programming Solver
+
 import sys
 #!/usr/bin/python
 
